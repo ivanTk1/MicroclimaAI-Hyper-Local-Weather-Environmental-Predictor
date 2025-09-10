@@ -1,0 +1,1681 @@
+temperature_C	humidity_%	wind_speed_m_s	district
+18.8	88	7.9	Mission
+18.2	89	6.7	Mission
+17.6	92	10.0	Mission
+17.3	91	10.6	Mission
+17.4	89	5.5	Mission
+17.5	88	5.9	Mission
+17.5	84	7.2	Mission
+17.4	82	6.9	Mission
+17.8	91	7.9	Mission
+19.1	89	9.4	Mission
+19.7	88	8.9	Mission
+20.2	81	9.4	Mission
+21.2	77	12.9	Mission
+21.6	72	13.5	Mission
+21.7	77	17.4	Mission
+20.4	84	16.6	Mission
+19.5	81	17.7	Mission
+18.7	79	17.0	Mission
+18.4	84	17.3	Mission
+17.5	93	16.7	Mission
+17.0	93	14.2	Mission
+16.5	96	8.9	Mission
+16.6	99	8.4	Mission
+16.6	100	9.0	Mission
+16.8	98	8.6	Mission
+16.8	99	8.6	Mission
+16.0	97	8.1	Mission
+15.7	96	5.4	Mission
+16.3	97	3.1	Mission
+16.0	99	6.9	Mission
+15.8	97	9.1	Mission
+15.1	94	7.2	Mission
+16.2	93	8.3	Mission
+16.5	97	9.4	Mission
+16.6	96	8.3	Mission
+17.1	92	11.7	Mission
+16.5	94	10.5	Mission
+17.4	89	12.4	Mission
+18.5	81	13.8	Mission
+18.7	82	15.0	Mission
+17.3	88	15.2	Mission
+17.4	86	15.0	Mission
+16.7	87	14.4	Mission
+16.3	88	14.9	Mission
+15.8	89	14.3	Mission
+15.5	90	15.7	Mission
+15.3	90	18.2	Mission
+15.2	91	18.7	Mission
+15.1	91	21.3	Mission
+15.0	91	18.8	Mission
+14.8	91	17.9	Mission
+14.7	93	17.0	Mission
+14.6	94	15.8	Mission
+14.4	94	14.5	Mission
+14.6	95	14.3	Mission
+14.9	95	12.4	Mission
+15.5	93	9.4	Mission
+16.7	88	9.2	Mission
+17.1	87	8.4	Mission
+18.3	82	9.4	Mission
+19.9	67	16.3	Mission
+20.2	66	16.3	Mission
+20.6	65	16.6	Mission
+20.7	65	17.9	Mission
+19.9	69	19.1	Mission
+19.2	71	14.7	Mission
+18.5	74	14.7	Mission
+17.4	80	14.1	Mission
+16.7	84	11.9	Mission
+16.6	85	10.8	Mission
+16.4	86	11.2	Mission
+16.3	86	9.4	Mission
+16.2	87	8.6	Mission
+16.0	88	8.2	Mission
+15.9	89	7.2	Mission
+15.9	89	7.1	Mission
+16.0	88	6.4	Mission
+15.9	89	6.4	Mission
+15.8	90	6.2	Mission
+15.7	91	5.7	Mission
+16.2	87	5.2	Mission
+17.6	79	6.4	Mission
+19.8	67	5.0	Mission
+21.5	60	6.1	Mission
+22.4	57	8.0	Mission
+23.2	54	10.3	Mission
+23.2	54	14.2	Mission
+22.5	56	15.2	Mission
+21.2	62	16.6	Mission
+19.7	70	17.7	Mission
+18.7	76	17.4	Mission
+17.4	83	16.6	Mission
+16.9	85	14.8	Mission
+16.8	85	12.6	Mission
+16.7	85	13.0	Mission
+16.6	85	12.6	Mission
+16.4	86	11.1	Mission
+16.3	88	9.8	Mission
+16.3	88	9.7	Mission
+16.3	88	10.0	Mission
+16.3	88	9.7	Mission
+16.1	89	8.9	Mission
+16.0	89	7.4	Mission
+15.9	89	7.1	Mission
+16.5	85	7.9	Mission
+17.8	78	7.8	Mission
+19.5	69	7.2	Mission
+20.9	63	8.7	Mission
+21.5	61	12.0	Mission
+21.5	61	15.4	Mission
+21.3	61	16.6	Mission
+20.7	64	18.9	Mission
+19.9	70	18.4	Mission
+19.7	71	19.8	Mission
+19.1	76	19.8	Mission
+18.4	81	18.0	Mission
+17.9	85	20.2	Mission
+17.7	85	19.5	Mission
+17.5	86	17.5	Mission
+17.1	90	19.2	Mission
+17.1	90	18.4	Mission
+17.0	90	17.3	Mission
+16.7	92	16.3	Mission
+16.5	94	16.2	Mission
+16.6	93	18.1	Mission
+16.6	92	19.0	Mission
+16.7	91	17.9	Mission
+16.8	90	16.0	Mission
+17.2	87	14.4	Mission
+18.1	82	14.0	Mission
+19.3	76	14.0	Mission
+20.3	71	14.8	Mission
+21.1	69	16.6	Mission
+21.8	68	18.7	Mission
+22.1	69	20.5	Mission
+22.2	71	20.9	Mission
+22.1	74	20.3	Mission
+21.5	77	19.9	Mission
+20.4	79	19.4	Mission
+18.9	80	19.6	Mission
+17.7	82	19.7	Mission
+17.3	84	18.5	Mission
+17.2	87	17.0	Mission
+17.1	89	16.3	Mission
+16.8	90	15.9	Mission
+16.5	91	15.5	Mission
+16.3	91	14.4	Mission
+16.3	89	11.5	Mission
+16.3	86	8.0	Mission
+16.3	84	4.7	Mission
+16.2	84	1.9	Mission
+16.2	84	2.1	Mission
+16.6	82	3.6	Mission
+18.0	74	2.9	Mission
+19.8	64	3.6	Mission
+21.4	55	5.1	Mission
+22.6	50	6.6	Mission
+23.6	46	8.9	Mission
+23.9	45	11.0	Mission
+23.4	47	12.1	Mission
+22.3	53	12.2	Mission
+21.2	58	12.3	Mission
+20.2	64	11.9	Mission
+19.1	70	10.5	Mission
+18.2	75	9.4	Mission
+17.7	79	8.3	Mission
+17.3	81	7.8	Mission
+17.0	83	7.1	Mission
+18.8	88	7.9	SOMA
+18.2	89	6.7	SOMA
+17.6	92	10.0	SOMA
+17.3	91	10.6	SOMA
+17.4	89	5.5	SOMA
+17.5	88	5.9	SOMA
+17.5	84	7.2	SOMA
+17.4	82	6.9	SOMA
+17.8	91	7.9	SOMA
+19.1	89	9.4	SOMA
+19.7	88	8.9	SOMA
+20.2	81	9.4	SOMA
+21.2	77	12.9	SOMA
+21.6	72	13.5	SOMA
+21.7	77	17.4	SOMA
+20.4	84	16.6	SOMA
+19.5	81	17.7	SOMA
+18.7	79	17.0	SOMA
+18.4	84	17.3	SOMA
+17.5	93	16.7	SOMA
+17.0	93	14.2	SOMA
+16.5	96	8.9	SOMA
+16.6	99	8.4	SOMA
+16.6	100	9.0	SOMA
+16.8	98	8.6	SOMA
+16.8	99	8.6	SOMA
+16.0	97	8.1	SOMA
+15.7	96	5.4	SOMA
+16.3	97	3.1	SOMA
+16.0	99	6.9	SOMA
+15.8	97	9.1	SOMA
+15.1	94	7.2	SOMA
+16.2	93	8.3	SOMA
+16.5	97	9.4	SOMA
+16.6	96	8.3	SOMA
+17.1	92	11.7	SOMA
+16.5	94	10.5	SOMA
+17.4	89	12.4	SOMA
+18.5	81	13.8	SOMA
+18.7	82	15.0	SOMA
+17.3	88	15.2	SOMA
+17.4	86	15.0	SOMA
+16.7	87	14.4	SOMA
+16.3	88	14.9	SOMA
+15.8	89	14.3	SOMA
+15.5	90	15.7	SOMA
+15.3	90	18.2	SOMA
+15.2	91	18.7	SOMA
+15.1	91	21.3	SOMA
+15.0	91	18.8	SOMA
+14.8	91	17.9	SOMA
+14.7	93	17.0	SOMA
+14.6	94	15.8	SOMA
+14.4	94	14.5	SOMA
+14.6	95	14.3	SOMA
+14.9	95	12.4	SOMA
+15.5	93	9.4	SOMA
+16.7	88	9.2	SOMA
+17.1	87	8.4	SOMA
+18.3	82	9.4	SOMA
+19.9	67	16.3	SOMA
+20.2	66	16.3	SOMA
+20.6	65	16.6	SOMA
+20.7	65	17.9	SOMA
+19.9	69	19.1	SOMA
+19.2	71	14.7	SOMA
+18.5	74	14.7	SOMA
+17.4	80	14.1	SOMA
+16.7	84	11.9	SOMA
+16.6	85	10.8	SOMA
+16.4	86	11.2	SOMA
+16.3	86	9.4	SOMA
+16.2	87	8.6	SOMA
+16.0	88	8.2	SOMA
+15.9	89	7.2	SOMA
+15.9	89	7.1	SOMA
+16.0	88	6.4	SOMA
+15.9	89	6.4	SOMA
+15.8	90	6.2	SOMA
+15.7	91	5.7	SOMA
+16.2	87	5.2	SOMA
+17.6	79	6.4	SOMA
+19.8	67	5.0	SOMA
+21.5	60	6.1	SOMA
+22.4	57	8.0	SOMA
+23.2	54	10.3	SOMA
+23.2	54	14.2	SOMA
+22.5	56	15.2	SOMA
+21.2	62	16.6	SOMA
+19.7	70	17.7	SOMA
+18.7	76	17.4	SOMA
+17.4	83	16.6	SOMA
+16.9	85	14.8	SOMA
+16.8	85	12.6	SOMA
+16.7	85	13.0	SOMA
+16.6	85	12.6	SOMA
+16.4	86	11.1	SOMA
+16.3	88	9.8	SOMA
+16.3	88	9.7	SOMA
+16.3	88	10.0	SOMA
+16.3	88	9.7	SOMA
+16.1	89	8.9	SOMA
+16.0	89	7.4	SOMA
+15.9	89	7.1	SOMA
+16.5	85	7.9	SOMA
+17.8	78	7.8	SOMA
+19.5	69	7.2	SOMA
+20.9	63	8.7	SOMA
+21.5	61	12.0	SOMA
+21.5	61	15.4	SOMA
+21.3	61	16.6	SOMA
+20.7	64	18.9	SOMA
+19.9	70	18.4	SOMA
+19.7	71	19.8	SOMA
+19.1	76	19.8	SOMA
+18.4	81	18.0	SOMA
+17.9	85	20.2	SOMA
+17.7	85	19.5	SOMA
+17.5	86	17.5	SOMA
+17.1	90	19.2	SOMA
+17.1	90	18.4	SOMA
+17.0	90	17.3	SOMA
+16.7	92	16.3	SOMA
+16.5	94	16.2	SOMA
+16.6	93	18.1	SOMA
+16.6	92	19.0	SOMA
+16.7	91	17.9	SOMA
+16.8	90	16.0	SOMA
+17.2	87	14.4	SOMA
+18.1	82	14.0	SOMA
+19.3	76	14.0	SOMA
+20.3	71	14.8	SOMA
+21.1	69	16.6	SOMA
+21.8	68	18.7	SOMA
+22.1	69	20.5	SOMA
+22.2	71	20.9	SOMA
+22.1	74	20.3	SOMA
+21.5	77	19.9	SOMA
+20.4	79	19.4	SOMA
+18.9	80	19.6	SOMA
+17.7	82	19.7	SOMA
+17.3	84	18.5	SOMA
+17.2	87	17.0	SOMA
+17.1	89	16.3	SOMA
+16.8	90	15.9	SOMA
+16.5	91	15.5	SOMA
+16.3	91	14.4	SOMA
+16.3	89	11.5	SOMA
+16.3	86	8.0	SOMA
+16.3	84	4.7	SOMA
+16.2	84	1.9	SOMA
+16.2	84	2.1	SOMA
+16.6	82	3.6	SOMA
+18.0	74	2.9	SOMA
+19.8	64	3.6	SOMA
+21.4	55	5.1	SOMA
+22.6	50	6.6	SOMA
+23.6	46	8.9	SOMA
+23.9	45	11.0	SOMA
+23.4	47	12.1	SOMA
+22.3	53	12.2	SOMA
+21.2	58	12.3	SOMA
+20.2	64	11.9	SOMA
+19.1	70	10.5	SOMA
+18.2	75	9.4	SOMA
+17.7	79	8.3	SOMA
+17.3	81	7.8	SOMA
+17.0	83	7.1	SOMA
+17.7	97	12.3	Sunset
+17.4	95	10.4	Sunset
+17.1	97	13.1	Sunset
+16.8	97	9.1	Sunset
+16.9	94	8.6	Sunset
+17.2	90	7.7	Sunset
+17.2	89	10.8	Sunset
+17.3	88	10.7	Sunset
+16.4	100	10.6	Sunset
+16.9	100	11.2	Sunset
+17.6	100	14.3	Sunset
+17.8	96	11.8	Sunset
+18.3	97	15.6	Sunset
+18.6	92	13.8	Sunset
+18.6	95	17.4	Sunset
+17.8	96	15.2	Sunset
+16.5	96	14.9	Sunset
+16.5	96	15.7	Sunset
+16.5	100	16.9	Sunset
+16.1	100	17.4	Sunset
+16.2	100	16.3	Sunset
+16.0	100	15.0	Sunset
+16.0	100	13.7	Sunset
+16.0	100	12.6	Sunset
+16.1	100	10.8	Sunset
+16.1	100	8.6	Sunset
+16.0	100	9.0	Sunset
+15.9	100	11.9	Sunset
+16.0	100	11.2	Sunset
+15.4	100	11.2	Sunset
+15.0	100	11.4	Sunset
+15.2	98	10.8	Sunset
+15.4	100	11.5	Sunset
+15.3	100	10.8	Sunset
+15.4	100	9.0	Sunset
+15.4	100	13.3	Sunset
+15.2	100	14.0	Sunset
+15.2	100	14.4	Sunset
+15.8	97	14.9	Sunset
+15.7	97	15.0	Sunset
+15.6	97	17.9	Sunset
+15.1	100	16.8	Sunset
+15.0	99	17.3	Sunset
+15.4	95	17.7	Sunset
+15.3	93	20.3	Sunset
+15.1	94	21.5	Sunset
+15.1	94	23.2	Sunset
+15.1	95	22.8	Sunset
+15.0	95	22.7	Sunset
+14.8	95	22.7	Sunset
+15.0	95	22.0	Sunset
+14.9	96	21.9	Sunset
+14.7	98	21.0	Sunset
+14.5	98	18.1	Sunset
+14.5	99	18.1	Sunset
+14.6	99	16.3	Sunset
+14.9	98	12.6	Sunset
+15.1	99	12.7	Sunset
+15.2	100	11.1	Sunset
+15.8	97	11.9	Sunset
+19.6	67	16.3	Sunset
+19.9	66	16.3	Sunset
+20.3	65	16.6	Sunset
+20.4	65	17.9	Sunset
+19.6	69	19.1	Sunset
+18.9	71	14.7	Sunset
+18.2	74	14.7	Sunset
+17.1	80	14.1	Sunset
+16.4	84	11.9	Sunset
+16.3	85	10.8	Sunset
+16.1	86	11.2	Sunset
+16.0	86	9.4	Sunset
+15.9	87	8.6	Sunset
+15.7	88	8.2	Sunset
+15.6	89	7.2	Sunset
+15.6	89	7.1	Sunset
+15.7	88	6.4	Sunset
+15.6	89	6.4	Sunset
+15.5	90	6.2	Sunset
+15.4	91	5.7	Sunset
+15.9	87	5.2	Sunset
+17.3	79	6.4	Sunset
+19.5	67	5.0	Sunset
+21.2	60	6.1	Sunset
+22.1	57	8.0	Sunset
+22.9	54	10.3	Sunset
+22.9	54	14.2	Sunset
+22.2	56	15.2	Sunset
+20.9	62	16.6	Sunset
+19.4	70	17.7	Sunset
+18.4	76	17.4	Sunset
+17.1	83	16.6	Sunset
+16.6	85	14.8	Sunset
+16.5	85	12.6	Sunset
+16.4	85	13.0	Sunset
+16.3	85	12.6	Sunset
+16.1	86	11.1	Sunset
+16.0	88	9.8	Sunset
+16.0	88	9.7	Sunset
+16.0	88	10.0	Sunset
+16.0	88	9.7	Sunset
+15.8	89	8.9	Sunset
+15.7	89	7.4	Sunset
+15.6	89	7.1	Sunset
+16.2	85	7.9	Sunset
+17.5	78	7.8	Sunset
+19.2	69	7.2	Sunset
+20.6	63	8.7	Sunset
+21.2	61	12.0	Sunset
+21.2	61	15.4	Sunset
+21.0	61	16.6	Sunset
+20.4	64	18.9	Sunset
+19.6	70	18.4	Sunset
+19.4	71	19.8	Sunset
+18.8	76	19.8	Sunset
+18.1	81	18.0	Sunset
+17.6	85	20.2	Sunset
+17.4	85	19.5	Sunset
+17.2	86	17.5	Sunset
+16.8	90	19.2	Sunset
+16.8	90	18.4	Sunset
+16.7	90	17.3	Sunset
+16.4	92	16.3	Sunset
+16.2	94	16.2	Sunset
+16.3	93	18.1	Sunset
+16.3	92	19.0	Sunset
+16.3	91	17.9	Sunset
+16.5	90	16.0	Sunset
+16.9	87	14.4	Sunset
+17.8	82	14.0	Sunset
+18.9	76	14.0	Sunset
+20.0	71	14.8	Sunset
+20.8	69	16.6	Sunset
+21.4	68	18.7	Sunset
+21.8	69	20.5	Sunset
+21.9	71	20.9	Sunset
+21.7	74	20.3	Sunset
+21.2	77	19.9	Sunset
+20.0	79	19.4	Sunset
+18.5	80	19.6	Sunset
+17.4	82	19.7	Sunset
+16.9	84	18.5	Sunset
+16.9	87	17.0	Sunset
+16.8	89	16.3	Sunset
+16.5	90	15.9	Sunset
+16.2	91	15.5	Sunset
+16.0	91	14.4	Sunset
+15.9	89	11.5	Sunset
+15.9	86	8.0	Sunset
+16.0	84	4.7	Sunset
+15.9	84	1.9	Sunset
+15.8	84	2.1	Sunset
+16.3	82	3.6	Sunset
+17.6	74	2.9	Sunset
+19.5	64	3.6	Sunset
+21.1	55	5.1	Sunset
+22.3	50	6.6	Sunset
+23.2	46	8.9	Sunset
+23.6	45	11.0	Sunset
+23.1	47	12.1	Sunset
+22.0	53	12.2	Sunset
+20.9	58	12.3	Sunset
+19.8	64	11.9	Sunset
+18.8	70	10.5	Sunset
+17.9	75	9.4	Sunset
+17.3	79	8.3	Sunset
+16.9	81	7.8	Sunset
+16.7	83	7.1	Sunset
+18.7	88	9.7	Marina
+18.1	90	7.9	Marina
+17.4	93	11.2	Marina
+17.2	92	11.4	Marina
+17.5	91	7.0	Marina
+17.3	88	7.6	Marina
+17.2	86	8.7	Marina
+17.1	84	7.4	Marina
+17.5	94	8.8	Marina
+18.7	92	9.0	Marina
+19.1	93	8.4	Marina
+20.0	84	8.9	Marina
+20.3	83	12.6	Marina
+21.3	74	12.7	Marina
+21.1	82	17.9	Marina
+20.3	85	16.6	Marina
+19.2	82	18.4	Marina
+18.3	79	18.3	Marina
+18.0	85	17.7	Marina
+17.1	95	18.7	Marina
+16.9	96	17.0	Marina
+16.6	99	12.0	Marina
+16.5	100	10.8	Marina
+16.3	100	10.2	Marina
+16.6	98	10.1	Marina
+16.6	99	10.2	Marina
+15.9	100	8.1	Marina
+15.9	99	6.0	Marina
+16.1	100	5.5	Marina
+15.8	100	8.7	Marina
+15.5	99	11.3	Marina
+15.4	95	9.7	Marina
+16.1	95	10.4	Marina
+15.9	100	10.4	Marina
+16.2	99	9.4	Marina
+16.5	94	11.2	Marina
+16.1	97	10.5	Marina
+16.8	92	12.5	Marina
+18.4	83	14.1	Marina
+18.1	84	15.7	Marina
+16.9	90	15.4	Marina
+17.0	89	16.1	Marina
+16.5	89	15.9	Marina
+16.0	90	17.3	Marina
+15.5	90	18.1	Marina
+15.4	91	20.6	Marina
+15.2	91	22.1	Marina
+15.0	93	22.1	Marina
+14.9	93	21.5	Marina
+14.8	93	17.7	Marina
+14.7	93	18.0	Marina
+14.6	94	17.1	Marina
+14.6	95	16.1	Marina
+14.5	96	15.3	Marina
+14.7	97	16.0	Marina
+14.8	96	14.9	Marina
+15.4	95	10.8	Marina
+16.3	92	9.1	Marina
+16.7	91	7.8	Marina
+17.9	85	7.5	Marina
+19.9	67	16.3	Marina
+20.2	66	16.3	Marina
+20.6	65	16.6	Marina
+20.7	65	17.9	Marina
+19.9	69	19.1	Marina
+19.2	71	14.7	Marina
+18.5	74	14.7	Marina
+17.4	80	14.1	Marina
+16.7	84	11.9	Marina
+16.6	85	10.8	Marina
+16.4	86	11.2	Marina
+16.3	86	9.4	Marina
+16.2	87	8.6	Marina
+16.0	88	8.2	Marina
+15.9	89	7.2	Marina
+15.9	89	7.1	Marina
+16.0	88	6.4	Marina
+15.9	89	6.4	Marina
+15.8	90	6.2	Marina
+15.7	91	5.7	Marina
+16.2	87	5.2	Marina
+17.6	79	6.4	Marina
+19.8	67	5.0	Marina
+21.5	60	6.1	Marina
+22.4	57	8.0	Marina
+23.2	54	10.3	Marina
+23.2	54	14.2	Marina
+22.5	56	15.2	Marina
+21.2	62	16.6	Marina
+19.7	70	17.7	Marina
+18.7	76	17.4	Marina
+17.4	83	16.6	Marina
+16.9	85	14.8	Marina
+16.8	85	12.6	Marina
+16.7	85	13.0	Marina
+16.6	85	12.6	Marina
+16.4	86	11.1	Marina
+16.3	88	9.8	Marina
+16.3	88	9.7	Marina
+16.3	88	10.0	Marina
+16.3	88	9.7	Marina
+16.1	89	8.9	Marina
+16.0	89	7.4	Marina
+15.9	89	7.1	Marina
+16.5	85	7.9	Marina
+17.8	78	7.8	Marina
+19.5	69	7.2	Marina
+20.9	63	8.7	Marina
+21.5	61	12.0	Marina
+21.5	61	15.4	Marina
+21.3	61	16.6	Marina
+20.7	64	18.9	Marina
+19.9	70	18.4	Marina
+19.7	71	19.8	Marina
+19.1	76	19.8	Marina
+18.4	81	18.0	Marina
+17.9	85	20.2	Marina
+17.7	85	19.5	Marina
+17.5	86	17.5	Marina
+17.1	90	19.2	Marina
+17.1	90	18.4	Marina
+17.0	90	17.3	Marina
+16.7	92	16.3	Marina
+16.5	94	16.2	Marina
+16.6	93	18.1	Marina
+16.6	92	19.0	Marina
+16.7	91	17.9	Marina
+16.8	90	16.0	Marina
+17.2	87	14.4	Marina
+18.1	82	14.0	Marina
+19.3	76	14.0	Marina
+20.3	71	14.8	Marina
+21.1	69	16.6	Marina
+21.8	68	18.7	Marina
+22.1	69	20.5	Marina
+22.2	71	20.9	Marina
+22.1	74	20.3	Marina
+21.5	77	19.9	Marina
+20.4	79	19.4	Marina
+18.9	80	19.6	Marina
+17.7	82	19.7	Marina
+17.3	84	18.5	Marina
+17.2	87	17.0	Marina
+17.1	89	16.3	Marina
+16.8	90	15.9	Marina
+16.5	91	15.5	Marina
+16.3	91	14.4	Marina
+16.3	89	11.5	Marina
+16.3	86	8.0	Marina
+16.3	84	4.7	Marina
+16.2	84	1.9	Marina
+16.2	84	2.1	Marina
+16.6	82	3.6	Marina
+18.0	74	2.9	Marina
+19.8	64	3.6	Marina
+21.4	55	5.1	Marina
+22.6	50	6.6	Marina
+23.6	46	8.9	Marina
+23.9	45	11.0	Marina
+23.4	47	12.1	Marina
+22.3	53	12.2	Marina
+21.2	58	12.3	Marina
+20.2	64	11.9	Marina
+19.1	70	10.5	Marina
+18.2	75	9.4	Marina
+17.7	79	8.3	Marina
+17.3	81	7.8	Marina
+17.0	83	7.1	Marina
+17.7	96	16.2	Richmond
+17.6	92	12.7	Richmond
+17.2	95	14.8	Richmond
+16.8	97	10.7	Richmond
+17.0	93	8.9	Richmond
+17.3	89	9.7	Richmond
+17.3	88	12.6	Richmond
+17.6	86	13.4	Richmond
+16.7	99	12.0	Richmond
+17.4	98	13.8	Richmond
+17.9	99	16.1	Richmond
+18.3	93	13.6	Richmond
+18.8	93	17.6	Richmond
+19.0	89	15.3	Richmond
+19.0	93	18.5	Richmond
+18.2	93	16.8	Richmond
+16.6	94	15.6	Richmond
+16.5	94	16.8	Richmond
+16.5	100	17.3	Richmond
+16.2	100	18.4	Richmond
+16.2	100	16.7	Richmond
+16.0	100	15.2	Richmond
+16.1	100	13.8	Richmond
+16.1	100	13.0	Richmond
+16.1	100	11.2	Richmond
+16.1	100	9.5	Richmond
+15.9	100	10.8	Richmond
+15.8	100	13.2	Richmond
+16.0	100	10.7	Richmond
+15.3	100	11.1	Richmond
+15.1	100	10.9	Richmond
+15.3	98	12.2	Richmond
+15.5	100	12.6	Richmond
+15.3	100	11.5	Richmond
+15.5	100	9.4	Richmond
+15.4	100	13.4	Richmond
+15.4	99	14.4	Richmond
+15.5	97	14.5	Richmond
+16.1	95	15.3	Richmond
+15.8	96	16.3	Richmond
+15.9	96	18.4	Richmond
+15.2	100	16.6	Richmond
+15.4	96	17.3	Richmond
+15.6	92	17.6	Richmond
+15.6	91	20.5	Richmond
+15.4	91	22.1	Richmond
+15.4	91	23.4	Richmond
+15.3	93	23.3	Richmond
+15.1	93	23.4	Richmond
+14.7	93	23.2	Richmond
+14.7	93	22.7	Richmond
+14.6	94	22.4	Richmond
+14.7	96	20.8	Richmond
+14.8	96	18.0	Richmond
+14.8	96	18.6	Richmond
+14.8	96	16.4	Richmond
+15.2	95	12.3	Richmond
+15.2	98	12.5	Richmond
+15.3	98	10.7	Richmond
+16.2	94	12.0	Richmond
+19.7	67	16.3	Richmond
+20.0	66	16.3	Richmond
+20.4	65	16.6	Richmond
+20.5	65	17.9	Richmond
+19.7	69	19.1	Richmond
+19.0	71	14.7	Richmond
+18.3	74	14.7	Richmond
+17.2	80	14.1	Richmond
+16.5	84	11.9	Richmond
+16.4	85	10.8	Richmond
+16.2	86	11.2	Richmond
+16.1	86	9.4	Richmond
+16.0	87	8.6	Richmond
+15.8	88	8.2	Richmond
+15.7	89	7.2	Richmond
+15.7	89	7.1	Richmond
+15.8	88	6.4	Richmond
+15.7	89	6.4	Richmond
+15.6	90	6.2	Richmond
+15.5	91	5.7	Richmond
+16.0	87	5.2	Richmond
+17.4	79	6.4	Richmond
+19.6	67	5.0	Richmond
+21.3	60	6.1	Richmond
+22.2	57	8.0	Richmond
+23.0	54	10.3	Richmond
+23.0	54	14.2	Richmond
+22.3	56	15.2	Richmond
+21.0	62	16.6	Richmond
+19.5	70	17.7	Richmond
+18.5	76	17.4	Richmond
+17.2	83	16.6	Richmond
+16.7	85	14.8	Richmond
+16.6	85	12.6	Richmond
+16.5	85	13.0	Richmond
+16.4	85	12.6	Richmond
+16.2	86	11.1	Richmond
+16.1	88	9.8	Richmond
+16.1	88	9.7	Richmond
+16.1	88	10.0	Richmond
+16.1	88	9.7	Richmond
+15.9	89	8.9	Richmond
+15.8	89	7.4	Richmond
+15.7	89	7.1	Richmond
+16.3	85	7.9	Richmond
+17.6	78	7.8	Richmond
+19.3	69	7.2	Richmond
+20.7	63	8.7	Richmond
+21.3	61	12.0	Richmond
+21.3	61	15.4	Richmond
+21.1	61	16.6	Richmond
+20.5	64	18.9	Richmond
+19.7	70	18.4	Richmond
+19.5	71	19.8	Richmond
+18.9	76	19.8	Richmond
+18.2	81	18.0	Richmond
+17.7	85	20.2	Richmond
+17.5	85	19.5	Richmond
+17.3	86	17.5	Richmond
+16.9	90	19.2	Richmond
+16.9	90	18.4	Richmond
+16.8	90	17.3	Richmond
+16.5	92	16.3	Richmond
+16.3	94	16.2	Richmond
+16.4	93	18.1	Richmond
+16.4	92	19.0	Richmond
+16.4	91	17.9	Richmond
+16.6	90	16.0	Richmond
+17.0	87	14.4	Richmond
+17.9	82	14.0	Richmond
+19.0	76	14.0	Richmond
+20.1	71	14.8	Richmond
+20.9	69	16.6	Richmond
+21.5	68	18.7	Richmond
+21.9	69	20.5	Richmond
+22.0	71	20.9	Richmond
+21.8	74	20.3	Richmond
+21.3	77	19.9	Richmond
+20.1	79	19.4	Richmond
+18.6	80	19.6	Richmond
+17.5	82	19.7	Richmond
+17.0	84	18.5	Richmond
+17.0	87	17.0	Richmond
+16.9	89	16.3	Richmond
+16.6	90	15.9	Richmond
+16.3	91	15.5	Richmond
+16.1	91	14.4	Richmond
+16.0	89	11.5	Richmond
+16.0	86	8.0	Richmond
+16.1	84	4.7	Richmond
+16.0	84	1.9	Richmond
+15.9	84	2.1	Richmond
+16.4	82	3.6	Richmond
+17.7	74	2.9	Richmond
+19.6	64	3.6	Richmond
+21.2	55	5.1	Richmond
+22.4	50	6.6	Richmond
+23.3	46	8.9	Richmond
+23.7	45	11.0	Richmond
+23.2	47	12.1	Richmond
+22.1	53	12.2	Richmond
+21.0	58	12.3	Richmond
+19.9	64	11.9	Richmond
+18.9	70	10.5	Richmond
+18.0	75	9.4	Richmond
+17.4	79	8.3	Richmond
+17.0	81	7.8	Richmond
+16.8	83	7.1	Richmond
+18.4	88	9.7	Chinatown
+17.8	90	7.9	Chinatown
+17.2	93	11.2	Chinatown
+17.0	92	11.4	Chinatown
+17.2	91	7.0	Chinatown
+17.1	88	7.6	Chinatown
+17.0	86	8.7	Chinatown
+16.8	84	7.4	Chinatown
+17.3	94	8.8	Chinatown
+18.4	92	9.0	Chinatown
+18.9	93	8.4	Chinatown
+19.7	84	8.9	Chinatown
+20.1	83	12.6	Chinatown
+21.1	74	12.7	Chinatown
+20.9	82	17.9	Chinatown
+20.1	85	16.6	Chinatown
+19.0	82	18.4	Chinatown
+18.0	79	18.3	Chinatown
+17.7	85	17.7	Chinatown
+16.8	95	18.7	Chinatown
+16.7	96	17.0	Chinatown
+16.3	99	12.0	Chinatown
+16.2	100	10.8	Chinatown
+16.1	100	10.2	Chinatown
+16.4	98	10.1	Chinatown
+16.3	99	10.2	Chinatown
+15.6	100	8.1	Chinatown
+15.7	99	6.0	Chinatown
+15.9	100	5.5	Chinatown
+15.5	100	8.7	Chinatown
+15.2	99	11.3	Chinatown
+15.1	95	9.7	Chinatown
+15.8	95	10.4	Chinatown
+15.7	100	10.4	Chinatown
+16.0	99	9.4	Chinatown
+16.3	94	11.2	Chinatown
+15.8	97	10.5	Chinatown
+16.6	92	12.5	Chinatown
+18.1	83	14.1	Chinatown
+17.9	84	15.7	Chinatown
+16.7	90	15.4	Chinatown
+16.8	89	16.1	Chinatown
+16.2	89	15.9	Chinatown
+15.8	90	17.3	Chinatown
+15.3	90	18.1	Chinatown
+15.2	91	20.6	Chinatown
+15.0	91	22.1	Chinatown
+14.8	93	22.1	Chinatown
+14.7	93	21.5	Chinatown
+14.6	93	17.7	Chinatown
+14.5	93	18.0	Chinatown
+14.4	94	17.1	Chinatown
+14.3	95	16.1	Chinatown
+14.2	96	15.3	Chinatown
+14.4	97	16.0	Chinatown
+14.5	96	14.9	Chinatown
+15.1	95	10.8	Chinatown
+16.0	92	9.1	Chinatown
+16.4	91	7.8	Chinatown
+17.6	85	7.5	Chinatown
+19.7	67	16.3	Chinatown
+20.0	66	16.3	Chinatown
+20.4	65	16.6	Chinatown
+20.5	65	17.9	Chinatown
+19.7	69	19.1	Chinatown
+19.0	71	14.7	Chinatown
+18.3	74	14.7	Chinatown
+17.2	80	14.1	Chinatown
+16.5	84	11.9	Chinatown
+16.4	85	10.8	Chinatown
+16.2	86	11.2	Chinatown
+16.1	86	9.4	Chinatown
+16.0	87	8.6	Chinatown
+15.8	88	8.2	Chinatown
+15.7	89	7.2	Chinatown
+15.7	89	7.1	Chinatown
+15.8	88	6.4	Chinatown
+15.7	89	6.4	Chinatown
+15.6	90	6.2	Chinatown
+15.5	91	5.7	Chinatown
+16.0	87	5.2	Chinatown
+17.4	79	6.4	Chinatown
+19.6	67	5.0	Chinatown
+21.3	60	6.1	Chinatown
+22.2	57	8.0	Chinatown
+23.0	54	10.3	Chinatown
+23.0	54	14.2	Chinatown
+22.3	56	15.2	Chinatown
+21.0	62	16.6	Chinatown
+19.5	70	17.7	Chinatown
+18.5	76	17.4	Chinatown
+17.2	83	16.6	Chinatown
+16.7	85	14.8	Chinatown
+16.6	85	12.6	Chinatown
+16.5	85	13.0	Chinatown
+16.4	85	12.6	Chinatown
+16.2	86	11.1	Chinatown
+16.1	88	9.8	Chinatown
+16.1	88	9.7	Chinatown
+16.1	88	10.0	Chinatown
+16.1	88	9.7	Chinatown
+15.9	89	8.9	Chinatown
+15.8	89	7.4	Chinatown
+15.7	89	7.1	Chinatown
+16.3	85	7.9	Chinatown
+17.6	78	7.8	Chinatown
+19.3	69	7.2	Chinatown
+20.7	63	8.7	Chinatown
+21.3	61	12.0	Chinatown
+21.3	61	15.4	Chinatown
+21.1	61	16.6	Chinatown
+20.5	64	18.9	Chinatown
+19.7	70	18.4	Chinatown
+19.5	71	19.8	Chinatown
+18.9	76	19.8	Chinatown
+18.2	81	18.0	Chinatown
+17.7	85	20.2	Chinatown
+17.5	85	19.5	Chinatown
+17.3	86	17.5	Chinatown
+16.9	90	19.2	Chinatown
+16.9	90	18.4	Chinatown
+16.8	90	17.3	Chinatown
+16.5	92	16.3	Chinatown
+16.3	94	16.2	Chinatown
+16.4	93	18.1	Chinatown
+16.4	92	19.0	Chinatown
+16.4	91	17.9	Chinatown
+16.6	90	16.0	Chinatown
+17.0	87	14.4	Chinatown
+17.9	82	14.0	Chinatown
+19.0	76	14.0	Chinatown
+20.1	71	14.8	Chinatown
+20.9	69	16.6	Chinatown
+21.5	68	18.7	Chinatown
+21.9	69	20.5	Chinatown
+22.0	71	20.9	Chinatown
+21.8	74	20.3	Chinatown
+21.3	77	19.9	Chinatown
+20.1	79	19.4	Chinatown
+18.6	80	19.6	Chinatown
+17.5	82	19.7	Chinatown
+17.0	84	18.5	Chinatown
+17.0	87	17.0	Chinatown
+16.9	89	16.3	Chinatown
+16.6	90	15.9	Chinatown
+16.3	91	15.5	Chinatown
+16.1	91	14.4	Chinatown
+16.0	89	11.5	Chinatown
+16.0	86	8.0	Chinatown
+16.1	84	4.7	Chinatown
+16.0	84	1.9	Chinatown
+15.9	84	2.1	Chinatown
+16.4	82	3.6	Chinatown
+17.7	74	2.9	Chinatown
+19.6	64	3.6	Chinatown
+21.2	55	5.1	Chinatown
+22.4	50	6.6	Chinatown
+23.3	46	8.9	Chinatown
+23.7	45	11.0	Chinatown
+23.2	47	12.1	Chinatown
+22.1	53	12.2	Chinatown
+21.0	58	12.3	Chinatown
+19.9	64	11.9	Chinatown
+18.9	70	10.5	Chinatown
+18.0	75	9.4	Chinatown
+17.4	79	8.3	Chinatown
+17.0	81	7.8	Chinatown
+16.8	83	7.1	Chinatown
+18.6	88	9.7	North Beach
+18.0	90	7.9	North Beach
+17.4	93	11.2	North Beach
+17.2	92	11.4	North Beach
+17.4	91	7.0	North Beach
+17.3	88	7.6	North Beach
+17.2	86	8.7	North Beach
+17.0	84	7.4	North Beach
+17.5	94	8.8	North Beach
+18.6	92	9.0	North Beach
+19.1	93	8.4	North Beach
+19.9	84	8.9	North Beach
+20.3	83	12.6	North Beach
+21.3	74	12.7	North Beach
+21.1	82	17.9	North Beach
+20.3	85	16.6	North Beach
+19.2	82	18.4	North Beach
+18.2	79	18.3	North Beach
+17.9	85	17.7	North Beach
+17.0	95	18.7	North Beach
+16.9	96	17.0	North Beach
+16.5	99	12.0	North Beach
+16.4	100	10.8	North Beach
+16.3	100	10.2	North Beach
+16.6	98	10.1	North Beach
+16.5	99	10.2	North Beach
+15.8	100	8.1	North Beach
+15.9	99	6.0	North Beach
+16.1	100	5.5	North Beach
+15.7	100	8.7	North Beach
+15.4	99	11.3	North Beach
+15.3	95	9.7	North Beach
+16.0	95	10.4	North Beach
+15.9	100	10.4	North Beach
+16.2	99	9.4	North Beach
+16.5	94	11.2	North Beach
+16.0	97	10.5	North Beach
+16.8	92	12.5	North Beach
+18.3	83	14.1	North Beach
+18.1	84	15.7	North Beach
+16.9	90	15.4	North Beach
+17.0	89	16.1	North Beach
+16.4	89	15.9	North Beach
+16.0	90	17.3	North Beach
+15.5	90	18.1	North Beach
+15.4	91	20.6	North Beach
+15.2	91	22.1	North Beach
+15.0	93	22.1	North Beach
+14.9	93	21.5	North Beach
+14.8	93	17.7	North Beach
+14.7	93	18.0	North Beach
+14.6	94	17.1	North Beach
+14.5	95	16.1	North Beach
+14.4	96	15.3	North Beach
+14.6	97	16.0	North Beach
+14.7	96	14.9	North Beach
+15.3	95	10.8	North Beach
+16.2	92	9.1	North Beach
+16.6	91	7.8	North Beach
+17.8	85	7.5	North Beach
+19.8	67	16.3	North Beach
+20.1	66	16.3	North Beach
+20.5	65	16.6	North Beach
+20.6	65	17.9	North Beach
+19.8	69	19.1	North Beach
+19.1	71	14.7	North Beach
+18.4	74	14.7	North Beach
+17.3	80	14.1	North Beach
+16.6	84	11.9	North Beach
+16.5	85	10.8	North Beach
+16.3	86	11.2	North Beach
+16.2	86	9.4	North Beach
+16.1	87	8.6	North Beach
+15.9	88	8.2	North Beach
+15.8	89	7.2	North Beach
+15.8	89	7.1	North Beach
+15.9	88	6.4	North Beach
+15.8	89	6.4	North Beach
+15.7	90	6.2	North Beach
+15.6	91	5.7	North Beach
+16.1	87	5.2	North Beach
+17.5	79	6.4	North Beach
+19.7	67	5.0	North Beach
+21.4	60	6.1	North Beach
+22.3	57	8.0	North Beach
+23.1	54	10.3	North Beach
+23.1	54	14.2	North Beach
+22.4	56	15.2	North Beach
+21.1	62	16.6	North Beach
+19.6	70	17.7	North Beach
+18.6	76	17.4	North Beach
+17.3	83	16.6	North Beach
+16.8	85	14.8	North Beach
+16.7	85	12.6	North Beach
+16.6	85	13.0	North Beach
+16.5	85	12.6	North Beach
+16.3	86	11.1	North Beach
+16.2	88	9.8	North Beach
+16.2	88	9.7	North Beach
+16.2	88	10.0	North Beach
+16.2	88	9.7	North Beach
+16.0	89	8.9	North Beach
+15.9	89	7.4	North Beach
+15.8	89	7.1	North Beach
+16.4	85	7.9	North Beach
+17.7	78	7.8	North Beach
+19.4	69	7.2	North Beach
+20.8	63	8.7	North Beach
+21.4	61	12.0	North Beach
+21.4	61	15.4	North Beach
+21.2	61	16.6	North Beach
+20.6	64	18.9	North Beach
+19.8	70	18.4	North Beach
+19.6	71	19.8	North Beach
+19.0	76	19.8	North Beach
+18.3	81	18.0	North Beach
+17.8	85	20.2	North Beach
+17.6	85	19.5	North Beach
+17.4	86	17.5	North Beach
+17.0	90	19.2	North Beach
+17.0	90	18.4	North Beach
+16.9	90	17.3	North Beach
+16.6	92	16.3	North Beach
+16.4	94	16.2	North Beach
+16.5	93	18.1	North Beach
+16.5	92	19.0	North Beach
+16.6	91	17.9	North Beach
+16.7	90	16.0	North Beach
+17.1	87	14.4	North Beach
+18.0	82	14.0	North Beach
+19.2	76	14.0	North Beach
+20.2	71	14.8	North Beach
+21.0	69	16.6	North Beach
+21.7	68	18.7	North Beach
+22.0	69	20.5	North Beach
+22.1	71	20.9	North Beach
+22.0	74	20.3	North Beach
+21.4	77	19.9	North Beach
+20.3	79	19.4	North Beach
+18.8	80	19.6	North Beach
+17.6	82	19.7	North Beach
+17.2	84	18.5	North Beach
+17.1	87	17.0	North Beach
+17.0	89	16.3	North Beach
+16.7	90	15.9	North Beach
+16.4	91	15.5	North Beach
+16.2	91	14.4	North Beach
+16.2	89	11.5	North Beach
+16.2	86	8.0	North Beach
+16.2	84	4.7	North Beach
+16.1	84	1.9	North Beach
+16.1	84	2.1	North Beach
+16.5	82	3.6	North Beach
+17.9	74	2.9	North Beach
+19.7	64	3.6	North Beach
+21.3	55	5.1	North Beach
+22.5	50	6.6	North Beach
+23.5	46	8.9	North Beach
+23.8	45	11.0	North Beach
+23.3	47	12.1	North Beach
+22.2	53	12.2	North Beach
+21.1	58	12.3	North Beach
+20.1	64	11.9	North Beach
+19.0	70	10.5	North Beach
+18.1	75	9.4	North Beach
+17.6	79	8.3	North Beach
+17.2	81	7.8	North Beach
+16.9	83	7.1	North Beach
+18.2	94	10.9	Castro
+17.7	92	10.5	Castro
+17.1	96	12.6	Castro
+17.1	97	11.9	Castro
+17.2	92	8.1	Castro
+17.4	89	8.6	Castro
+17.8	85	9.5	Castro
+17.7	87	9.7	Castro
+17.0	98	10.6	Castro
+17.9	97	11.6	Castro
+18.5	94	14.2	Castro
+19.2	88	11.0	Castro
+19.7	88	15.9	Castro
+20.6	81	14.9	Castro
+20.3	88	18.3	Castro
+19.1	93	16.3	Castro
+17.4	90	14.8	Castro
+17.0	88	16.3	Castro
+16.9	94	16.9	Castro
+16.4	100	18.1	Castro
+16.4	100	17.5	Castro
+16.2	100	15.1	Castro
+16.2	100	12.3	Castro
+16.2	100	10.4	Castro
+16.2	100	9.4	Castro
+16.4	100	9.4	Castro
+15.9	100	9.2	Castro
+15.9	100	10.7	Castro
+16.0	100	9.2	Castro
+15.7	100	9.1	Castro
+15.2	100	12.0	Castro
+15.1	96	9.7	Castro
+15.6	98	10.1	Castro
+15.6	100	10.4	Castro
+15.6	100	8.6	Castro
+15.7	100	11.9	Castro
+15.5	100	11.9	Castro
+15.4	100	12.7	Castro
+16.9	91	14.5	Castro
+16.5	93	15.1	Castro
+16.0	95	15.8	Castro
+15.7	98	15.7	Castro
+15.5	96	16.2	Castro
+15.5	95	17.4	Castro
+15.4	93	18.8	Castro
+15.2	94	20.3	Castro
+15.2	94	22.4	Castro
+15.0	95	22.1	Castro
+14.9	95	21.6	Castro
+14.7	95	19.5	Castro
+14.6	95	19.2	Castro
+14.6	96	18.5	Castro
+14.6	98	17.1	Castro
+14.5	99	15.5	Castro
+14.4	99	15.2	Castro
+14.4	100	14.4	Castro
+14.8	99	11.5	Castro
+15.6	96	11.8	Castro
+15.9	95	10.5	Castro
+16.7	92	11.6	Castro
+19.6	67	16.3	Castro
+19.9	66	16.3	Castro
+20.3	65	16.6	Castro
+20.4	65	17.9	Castro
+19.6	69	19.1	Castro
+18.9	71	14.7	Castro
+18.2	74	14.7	Castro
+17.1	80	14.1	Castro
+16.4	84	11.9	Castro
+16.3	85	10.8	Castro
+16.1	86	11.2	Castro
+16.0	86	9.4	Castro
+15.9	87	8.6	Castro
+15.7	88	8.2	Castro
+15.6	89	7.2	Castro
+15.6	89	7.1	Castro
+15.7	88	6.4	Castro
+15.6	89	6.4	Castro
+15.5	90	6.2	Castro
+15.4	91	5.7	Castro
+15.9	87	5.2	Castro
+17.3	79	6.4	Castro
+19.5	67	5.0	Castro
+21.2	60	6.1	Castro
+22.1	57	8.0	Castro
+22.9	54	10.3	Castro
+22.9	54	14.2	Castro
+22.2	56	15.2	Castro
+20.9	62	16.6	Castro
+19.4	70	17.7	Castro
+18.4	76	17.4	Castro
+17.1	83	16.6	Castro
+16.6	85	14.8	Castro
+16.5	85	12.6	Castro
+16.4	85	13.0	Castro
+16.3	85	12.6	Castro
+16.1	86	11.1	Castro
+16.0	88	9.8	Castro
+16.0	88	9.7	Castro
+16.0	88	10.0	Castro
+16.0	88	9.7	Castro
+15.8	89	8.9	Castro
+15.7	89	7.4	Castro
+15.6	89	7.1	Castro
+16.2	85	7.9	Castro
+17.5	78	7.8	Castro
+19.2	69	7.2	Castro
+20.6	63	8.7	Castro
+21.2	61	12.0	Castro
+21.2	61	15.4	Castro
+21.0	61	16.6	Castro
+20.4	64	18.9	Castro
+19.6	70	18.4	Castro
+19.4	71	19.8	Castro
+18.8	76	19.8	Castro
+18.1	81	18.0	Castro
+17.6	85	20.2	Castro
+17.4	85	19.5	Castro
+17.2	86	17.5	Castro
+16.8	90	19.2	Castro
+16.8	90	18.4	Castro
+16.7	90	17.3	Castro
+16.4	92	16.3	Castro
+16.2	94	16.2	Castro
+16.3	93	18.1	Castro
+16.3	92	19.0	Castro
+16.4	91	17.9	Castro
+16.5	90	16.0	Castro
+16.9	87	14.4	Castro
+17.8	82	14.0	Castro
+19.0	76	14.0	Castro
+20.0	71	14.8	Castro
+20.8	69	16.6	Castro
+21.5	68	18.7	Castro
+21.8	69	20.5	Castro
+21.9	71	20.9	Castro
+21.8	74	20.3	Castro
+21.2	77	19.9	Castro
+20.1	79	19.4	Castro
+18.6	80	19.6	Castro
+17.4	82	19.7	Castro
+17.0	84	18.5	Castro
+16.9	87	17.0	Castro
+16.8	89	16.3	Castro
+16.5	90	15.9	Castro
+16.2	91	15.5	Castro
+16.0	91	14.4	Castro
+16.0	89	11.5	Castro
+16.0	86	8.0	Castro
+16.0	84	4.7	Castro
+15.9	84	1.9	Castro
+15.9	84	2.1	Castro
+16.3	82	3.6	Castro
+17.7	74	2.9	Castro
+19.5	64	3.6	Castro
+21.1	55	5.1	Castro
+22.3	50	6.6	Castro
+23.3	46	8.9	Castro
+23.6	45	11.0	Castro
+23.1	47	12.1	Castro
+22.0	53	12.2	Castro
+20.9	58	12.3	Castro
+19.9	64	11.9	Castro
+18.8	70	10.5	Castro
+17.9	75	9.4	Castro
+17.4	79	8.3	Castro
+17.0	81	7.8	Castro
+16.7	83	7.1	Castro
+18.1	92	12.9	Haight-Ashbury
+17.7	90	11.1	Haight-Ashbury
+17.1	94	12.8	Haight-Ashbury
+17.0	95	11.4	Haight-Ashbury
+17.0	92	7.7	Haight-Ashbury
+17.3	88	9.0	Haight-Ashbury
+17.5	85	9.9	Haight-Ashbury
+17.5	85	10.5	Haight-Ashbury
+16.9	97	11.1	Haight-Ashbury
+17.9	94	11.7	Haight-Ashbury
+18.4	94	13.9	Haight-Ashbury
+19.0	86	11.5	Haight-Ashbury
+19.7	85	16.1	Haight-Ashbury
+20.4	79	14.9	Haight-Ashbury
+20.1	87	18.2	Haight-Ashbury
+19.3	89	16.7	Haight-Ashbury
+17.3	88	15.3	Haight-Ashbury
+17.0	87	17.0	Haight-Ashbury
+16.8	92	17.0	Haight-Ashbury
+16.2	100	18.4	Haight-Ashbury
+16.3	100	17.3	Haight-Ashbury
+15.9	100	15.2	Haight-Ashbury
+16.0	100	12.2	Haight-Ashbury
+15.9	100	10.9	Haight-Ashbury
+16.0	100	9.5	Haight-Ashbury
+16.0	100	10.3	Haight-Ashbury
+15.6	100	9.6	Haight-Ashbury
+15.6	100	10.6	Haight-Ashbury
+15.7	100	9.4	Haight-Ashbury
+15.2	100	9.5	Haight-Ashbury
+14.9	100	11.3	Haight-Ashbury
+15.0	97	10.4	Haight-Ashbury
+15.5	99	10.8	Haight-Ashbury
+15.2	100	10.5	Haight-Ashbury
+15.3	100	9.1	Haight-Ashbury
+15.4	100	11.5	Haight-Ashbury
+15.3	99	11.9	Haight-Ashbury
+15.5	98	12.8	Haight-Ashbury
+16.8	89	14.7	Haight-Ashbury
+16.4	91	15.4	Haight-Ashbury
+16.0	94	15.6	Haight-Ashbury
+15.5	96	15.7	Haight-Ashbury
+15.5	93	16.6	Haight-Ashbury
+15.5	92	17.3	Haight-Ashbury
+15.4	91	18.8	Haight-Ashbury
+15.1	92	20.3	Haight-Ashbury
+15.2	92	21.3	Haight-Ashbury
+15.0	94	21.0	Haight-Ashbury
+14.5	94	19.5	Haight-Ashbury
+14.4	94	17.8	Haight-Ashbury
+14.3	94	18.3	Haight-Ashbury
+14.3	95	17.7	Haight-Ashbury
+14.3	96	16.4	Haight-Ashbury
+14.4	97	14.7	Haight-Ashbury
+14.4	97	15.5	Haight-Ashbury
+14.4	97	14.3	Haight-Ashbury
+15.0	95	11.2	Haight-Ashbury
+15.5	94	11.5	Haight-Ashbury
+15.8	94	9.7	Haight-Ashbury
+17.0	88	10.8	Haight-Ashbury
+19.4	67	16.3	Haight-Ashbury
+19.7	66	16.3	Haight-Ashbury
+20.1	65	16.6	Haight-Ashbury
+20.2	65	17.9	Haight-Ashbury
+19.4	69	19.1	Haight-Ashbury
+18.7	71	14.7	Haight-Ashbury
+18.0	74	14.7	Haight-Ashbury
+16.9	80	14.1	Haight-Ashbury
+16.2	84	11.9	Haight-Ashbury
+16.1	85	10.8	Haight-Ashbury
+15.9	86	11.2	Haight-Ashbury
+15.8	86	9.4	Haight-Ashbury
+15.7	87	8.6	Haight-Ashbury
+15.5	88	8.2	Haight-Ashbury
+15.4	89	7.2	Haight-Ashbury
+15.4	89	7.1	Haight-Ashbury
+15.5	88	6.4	Haight-Ashbury
+15.4	89	6.4	Haight-Ashbury
+15.3	90	6.2	Haight-Ashbury
+15.2	91	5.7	Haight-Ashbury
+15.7	87	5.2	Haight-Ashbury
+17.1	79	6.4	Haight-Ashbury
+19.3	67	5.0	Haight-Ashbury
+21.0	60	6.1	Haight-Ashbury
+21.9	57	8.0	Haight-Ashbury
+22.7	54	10.3	Haight-Ashbury
+22.7	54	14.2	Haight-Ashbury
+22.0	56	15.2	Haight-Ashbury
+20.7	62	16.6	Haight-Ashbury
+19.2	70	17.7	Haight-Ashbury
+18.2	76	17.4	Haight-Ashbury
+16.9	83	16.6	Haight-Ashbury
+16.4	85	14.8	Haight-Ashbury
+16.3	85	12.6	Haight-Ashbury
+16.2	85	13.0	Haight-Ashbury
+16.1	85	12.6	Haight-Ashbury
+15.9	86	11.1	Haight-Ashbury
+15.8	88	9.8	Haight-Ashbury
+15.8	88	9.7	Haight-Ashbury
+15.8	88	10.0	Haight-Ashbury
+15.8	88	9.7	Haight-Ashbury
+15.6	89	8.9	Haight-Ashbury
+15.5	89	7.4	Haight-Ashbury
+15.4	89	7.1	Haight-Ashbury
+16.0	85	7.9	Haight-Ashbury
+17.3	78	7.8	Haight-Ashbury
+19.0	69	7.2	Haight-Ashbury
+20.4	63	8.7	Haight-Ashbury
+21.0	61	12.0	Haight-Ashbury
+21.0	61	15.4	Haight-Ashbury
+20.8	61	16.6	Haight-Ashbury
+20.2	64	18.9	Haight-Ashbury
+19.4	70	18.4	Haight-Ashbury
+19.2	71	19.8	Haight-Ashbury
+18.6	76	19.8	Haight-Ashbury
+17.9	81	18.0	Haight-Ashbury
+17.4	85	20.2	Haight-Ashbury
+17.2	85	19.5	Haight-Ashbury
+17.0	86	17.5	Haight-Ashbury
+16.6	90	19.2	Haight-Ashbury
+16.6	90	18.4	Haight-Ashbury
+16.5	90	17.3	Haight-Ashbury
+16.2	92	16.3	Haight-Ashbury
+16.0	94	16.2	Haight-Ashbury
+16.1	93	18.1	Haight-Ashbury
+16.1	92	19.0	Haight-Ashbury
+16.2	91	17.9	Haight-Ashbury
+16.3	90	16.0	Haight-Ashbury
+16.7	87	14.4	Haight-Ashbury
+17.6	82	14.0	Haight-Ashbury
+18.8	76	14.0	Haight-Ashbury
+19.8	71	14.8	Haight-Ashbury
+20.6	69	16.6	Haight-Ashbury
+21.3	68	18.7	Haight-Ashbury
+21.6	69	20.5	Haight-Ashbury
+21.7	71	20.9	Haight-Ashbury
+21.6	74	20.3	Haight-Ashbury
+21.0	77	19.9	Haight-Ashbury
+19.9	79	19.4	Haight-Ashbury
+18.4	80	19.6	Haight-Ashbury
+17.2	82	19.7	Haight-Ashbury
+16.8	84	18.5	Haight-Ashbury
+16.7	87	17.0	Haight-Ashbury
+16.6	89	16.3	Haight-Ashbury
+16.3	90	15.9	Haight-Ashbury
+16.0	91	15.5	Haight-Ashbury
+15.8	91	14.4	Haight-Ashbury
+15.8	89	11.5	Haight-Ashbury
+15.8	86	8.0	Haight-Ashbury
+15.8	84	4.7	Haight-Ashbury
+15.7	84	1.9	Haight-Ashbury
+15.7	84	2.1	Haight-Ashbury
+16.1	82	3.6	Haight-Ashbury
+17.5	74	2.9	Haight-Ashbury
+19.3	64	3.6	Haight-Ashbury
+20.9	55	5.1	Haight-Ashbury
+22.1	50	6.6	Haight-Ashbury
+23.1	46	8.9	Haight-Ashbury
+23.4	45	11.0	Haight-Ashbury
+22.9	47	12.1	Haight-Ashbury
+21.8	53	12.2	Haight-Ashbury
+20.7	58	12.3	Haight-Ashbury
+19.7	64	11.9	Haight-Ashbury
+18.6	70	10.5	Haight-Ashbury
+17.7	75	9.4	Haight-Ashbury
+17.2	79	8.3	Haight-Ashbury
+16.8	81	7.8	Haight-Ashbury
+16.5	83	7.1	Haight-Ashbury
+18.6	88	9.7	Tenderloin
+18.0	90	7.9	Tenderloin
+17.3	93	11.2	Tenderloin
+17.1	92	11.4	Tenderloin
+17.4	91	7.0	Tenderloin
+17.2	88	7.6	Tenderloin
+17.1	86	8.7	Tenderloin
+17.0	84	7.4	Tenderloin
+17.4	94	8.8	Tenderloin
+18.6	92	9.0	Tenderloin
+19.0	93	8.4	Tenderloin
+19.9	84	8.9	Tenderloin
+20.2	83	12.6	Tenderloin
+21.2	74	12.7	Tenderloin
+21.0	82	17.9	Tenderloin
+20.2	85	16.6	Tenderloin
+19.1	82	18.4	Tenderloin
+18.2	79	18.3	Tenderloin
+17.9	85	17.7	Tenderloin
+17.0	95	18.7	Tenderloin
+16.8	96	17.0	Tenderloin
+16.5	99	12.0	Tenderloin
+16.4	100	10.8	Tenderloin
+16.2	100	10.2	Tenderloin
+16.5	98	10.1	Tenderloin
+16.5	99	10.2	Tenderloin
+15.8	100	8.1	Tenderloin
+15.8	99	6.0	Tenderloin
+16.0	100	5.5	Tenderloin
+15.7	100	8.7	Tenderloin
+15.4	99	11.3	Tenderloin
+15.3	95	9.7	Tenderloin
+16.0	95	10.4	Tenderloin
+15.8	100	10.4	Tenderloin
+16.1	99	9.4	Tenderloin
+16.4	94	11.2	Tenderloin
+16.0	97	10.5	Tenderloin
+16.7	92	12.5	Tenderloin
+18.3	83	14.1	Tenderloin
+18.0	84	15.7	Tenderloin
+16.8	90	15.4	Tenderloin
+16.9	89	16.1	Tenderloin
+16.4	89	15.9	Tenderloin
+15.9	90	17.3	Tenderloin
+15.4	90	18.1	Tenderloin
+15.3	91	20.6	Tenderloin
+15.1	91	22.1	Tenderloin
+14.9	93	22.1	Tenderloin
+14.8	93	21.5	Tenderloin
+14.7	93	17.7	Tenderloin
+14.6	93	18.0	Tenderloin
+14.5	94	17.1	Tenderloin
+14.5	95	16.1	Tenderloin
+14.4	96	15.3	Tenderloin
+14.6	97	16.0	Tenderloin
+14.7	96	14.9	Tenderloin
+15.3	95	10.8	Tenderloin
+16.2	92	9.1	Tenderloin
+16.6	91	7.8	Tenderloin
+17.8	85	7.5	Tenderloin
+19.8	67	16.3	Tenderloin
+20.1	66	16.3	Tenderloin
+20.5	65	16.6	Tenderloin
+20.6	65	17.9	Tenderloin
+19.8	69	19.1	Tenderloin
+19.1	71	14.7	Tenderloin
+18.4	74	14.7	Tenderloin
+17.3	80	14.1	Tenderloin
+16.6	84	11.9	Tenderloin
+16.5	85	10.8	Tenderloin
+16.3	86	11.2	Tenderloin
+16.2	86	9.4	Tenderloin
+16.1	87	8.6	Tenderloin
+15.9	88	8.2	Tenderloin
+15.8	89	7.2	Tenderloin
+15.8	89	7.1	Tenderloin
+15.9	88	6.4	Tenderloin
+15.8	89	6.4	Tenderloin
+15.7	90	6.2	Tenderloin
+15.6	91	5.7	Tenderloin
+16.1	87	5.2	Tenderloin
+17.5	79	6.4	Tenderloin
+19.7	67	5.0	Tenderloin
+21.4	60	6.1	Tenderloin
+22.3	57	8.0	Tenderloin
+23.1	54	10.3	Tenderloin
+23.1	54	14.2	Tenderloin
+22.4	56	15.2	Tenderloin
+21.1	62	16.6	Tenderloin
+19.6	70	17.7	Tenderloin
+18.6	76	17.4	Tenderloin
+17.3	83	16.6	Tenderloin
+16.8	85	14.8	Tenderloin
+16.7	85	12.6	Tenderloin
+16.6	85	13.0	Tenderloin
+16.5	85	12.6	Tenderloin
+16.3	86	11.1	Tenderloin
+16.2	88	9.8	Tenderloin
+16.2	88	9.7	Tenderloin
+16.2	88	10.0	Tenderloin
+16.2	88	9.7	Tenderloin
+16.0	89	8.9	Tenderloin
+15.9	89	7.4	Tenderloin
+15.8	89	7.1	Tenderloin
+16.4	85	7.9	Tenderloin
+17.7	78	7.8	Tenderloin
+19.4	69	7.2	Tenderloin
+20.8	63	8.7	Tenderloin
+21.4	61	12.0	Tenderloin
+21.4	61	15.4	Tenderloin
+21.2	61	16.6	Tenderloin
+20.6	64	18.9	Tenderloin
+19.8	70	18.4	Tenderloin
+19.6	71	19.8	Tenderloin
+19.0	76	19.8	Tenderloin
+18.3	81	18.0	Tenderloin
+17.8	85	20.2	Tenderloin
+17.6	85	19.5	Tenderloin
+17.4	86	17.5	Tenderloin
+17.0	90	19.2	Tenderloin
+17.0	90	18.4	Tenderloin
+16.9	90	17.3	Tenderloin
+16.6	92	16.3	Tenderloin
+16.4	94	16.2	Tenderloin
+16.5	93	18.1	Tenderloin
+16.5	92	19.0	Tenderloin
+16.6	91	17.9	Tenderloin
+16.7	90	16.0	Tenderloin
+17.1	87	14.4	Tenderloin
+18.0	82	14.0	Tenderloin
+19.2	76	14.0	Tenderloin
+20.2	71	14.8	Tenderloin
+21.0	69	16.6	Tenderloin
+21.7	68	18.7	Tenderloin
+22.0	69	20.5	Tenderloin
+22.1	71	20.9	Tenderloin
+22.0	74	20.3	Tenderloin
+21.4	77	19.9	Tenderloin
+20.3	79	19.4	Tenderloin
+18.8	80	19.6	Tenderloin
+17.6	82	19.7	Tenderloin
+17.2	84	18.5	Tenderloin
+17.1	87	17.0	Tenderloin
+17.0	89	16.3	Tenderloin
+16.7	90	15.9	Tenderloin
+16.4	91	15.5	Tenderloin
+16.2	91	14.4	Tenderloin
+16.2	89	11.5	Tenderloin
+16.2	86	8.0	Tenderloin
+16.2	84	4.7	Tenderloin
+16.1	84	1.9	Tenderloin
+16.1	84	2.1	Tenderloin
+16.5	82	3.6	Tenderloin
+17.9	74	2.9	Tenderloin
+19.7	64	3.6	Tenderloin
+21.3	55	5.1	Tenderloin
+22.5	50	6.6	Tenderloin
+23.5	46	8.9	Tenderloin
+23.8	45	11.0	Tenderloin
+23.3	47	12.1	Tenderloin
+22.2	53	12.2	Tenderloin
+21.1	58	12.3	Tenderloin
+20.1	64	11.9	Tenderloin
+19.0	70	10.5	Tenderloin
+18.1	75	9.4	Tenderloin
+17.6	79	8.3	Tenderloin
+17.2	81	7.8	Tenderloin
+16.9	83	7.1	Tenderloin
