@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 import time
+from districts import districts
 
 # Modified fetch function
 def fetch_sf_microclimate(latitude, longitude):
@@ -20,25 +21,10 @@ def fetch_sf_microclimate(latitude, longitude):
     df = pd.DataFrame({
         'temperature_C': hourly['temperature_2m'],
         'humidity_%': hourly['relativehumidity_2m'],
-        'wind_speed_m_s': hourly['windspeed_10m']
+        'wind_speed_m_s': hourly['windspeed_10m'],
+        'time': pd.to_datetime(hourly['time'])  
     })
-    df['time'] = pd.to_datetime(hourly['time'])
-    df.set_index('time', inplace=True)
     return df
-
-# List of SF districts with coordinates
-districts = {
-    "Mission": (37.7599, -122.4148),
-    "SOMA": (37.7786, -122.4057),
-    "Sunset": (37.7534, -122.4940),
-    "Marina": (37.8033, -122.4368),
-    "Richmond": (37.7802, -122.4869),
-    "Chinatown": (37.7941, -122.4078),
-    "North Beach": (37.8021, -122.4107),
-    "Castro": (37.7625, -122.4350),
-    "Haight-Ashbury": (37.7701, -122.4469),
-    "Tenderloin": (37.7831, -122.4125)
-}
 
 # Loop over all districts and combine data
 all_data = []
